@@ -14,7 +14,7 @@ funcB(int *i)
 
 int main()
 {
-  int a = 1;
+  int a = 3;
 
   printf("a = %d\n" , a);
 
