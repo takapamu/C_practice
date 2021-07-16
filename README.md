@@ -1,1 +1,2 @@
-<h2>High & Low Game</h2>
+<h2>C practice </h2>
+
