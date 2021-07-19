@@ -1,3 +1,4 @@
+//sin(x)をプロット
 #include <stdio.h>
 
 int main(void)

@@ -1,3 +1,4 @@
+//配列のデータを曲線と点でプロット
 #include <stdio.h>
 #include <math.h>
 #define N 100
